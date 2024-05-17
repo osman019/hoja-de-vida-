@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{background-color: rgb(253, 253, 253);
+    border: 2px solid;
+
+
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+    padding: 1px;
+    margin: 80px;
+    margin-top: 30px;
+}
+.dotted{
+margin-top: -155px;
+padding-left: 250px;
+}
+#contenido{
+    padding-left: 250px
+}
+
+#contenido2{
+    padding-left: 250px
+}
+#numero{
+    padding-left: 250px
+}
+
+.texto{
+    margin-top: 20px;
+    padding: 20px 0px 0px 0px ;
+    background-color: antiquewhite;
+}
+.contenedor{
+    border: 2px solid;
+    border-color:rgb(0, 0, 0); 
+    
+}
+.contenedor2{
+    text-align: center;
+    border: 2px solid;
+    height: 490px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+}
+.ea{text-align: center;
+    border: 2px solid;
+    height: 50px;
+    margin-top: 170px;
+    width: 33%;
+    float: left;
+    margin-left: 100px;
+
+
+}
+.contenedor3{ text-align: center;
+    border: 2px solid;
+    height: 490px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 3px;
+}
+.contenedor4{text-align: center;
+    border: 2px solid;
+    height: 490px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 3px;
+
+}
+.section{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 60px;
+    float: left;
+}
+.section2{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+    float: left;
+
+}
+.section3{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 100px;
+    float: left;
+
+}
+.texto1{
+margin-top: 30px;
+padding: 70px;
+margin-left: -250px;
+}
+#texto2{
+    margin-top: -70px;
+    padding: 1px;
+    margin-left: -250px;
+}
+#texto3{
+margin-top: -3px;
+padding: 1px;
+margin-left: -290px;
+}
+.idiomas{
+    text-align: center;
+    border: 2px solid;
+    height: 40px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 100px;
+}    
+.idiomaN{
+    margin-left: -250px;
+    margin-top: 100px;
+}
+#nivel{
+    margin-left:-255px ;
+}    
+#escribe{
+    margin-left: -250px;
+}
+
+.otroidioma{
+    margin-left: -250px;
+}
+#nivel2{
+    margin-left:-250px ;
+}
+#BP{
+    margin-top: 290px;
+padding: 70px;
+margin-left: -251px;
+}
+#año{
+    margin-left:-340px;
+}
+#colegio{
+    margin-left: -250px;
+    margin-top: -70px;
+}
+#BS{
+    margin-left: -240px;
+}
+#colegio2{
+    margin-left: -190px;
+}
+#año2{
+    margin-left:-340px;
+}
+#nombre{
+    margin-top: 100px;
+    margin-left: -300px;
+}
+#tec{
+    margin-left: -300px;
+}
+#NC{
+    margin-left: -200px;
+}
+.contenedor5{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+#nombreempresa{
+    margin-top: 150px;
+    margin-left: -200px;
+}
+#cargo{
+    margin-left: -240px;
+}
+#logros{
+    margin-left: -250px;
+}
+#Año{
+    margin-left: -250px;
+}
+#Stackteno{
+    margin-left: -220px;
+}
