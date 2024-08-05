@@ -1,4 +1,4 @@
-# Hoja de vida 🪪
+# Hoja de vida  🪪
 
 ## Descripcion 
 Este taller trata de una hoja de vida con la siguiente informacion personal:
